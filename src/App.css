@@ -1,6 +1,25 @@
 .App {
   text-align: center;
+  
 }
+
+
+.Home {
+  background-image: url("./Images/matt-palmer-rQwlsn6Rjd4-unsplash.jpg");
+  background-position: center;
+  background-attachment: fixed;
+  height: 1800px;
+  margin-top: 0%;
+}
+
+
+.Configuration{
+  border: solid 3px green;
+ margin-left: 200px;
+ margin-top: 20px;
+
+}
+
 
 .App-logo {
   height: 40vmin;
